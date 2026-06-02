@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  #t1 {
+    color: maroon;
+  }
+  
+ 
+  .titulo {
+    color: steelblue;
+  }
+  
+  .texto {
+    color: white;
+  }
+  
+ 
+  header {
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    color: steelblue;
+  }
+  
+ 
+  .black {
+    width: 100%;
+    height: 300px;
+    background: black;
+  }
+  
+ 
+  .branco {
+    width: 100%;
+    height: 300px;
+    background: #f0f0f0;
+  }
+  
+ 
+  footer {
+    padding: 30px;
+    text-align: center;
+    font-size: 12px;
+  } 
